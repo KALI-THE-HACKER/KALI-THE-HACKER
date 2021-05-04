@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @luckyverma-sudo
+- 👋 Hi, I’m KALI : THE HACKER ™
 - 👀 I’m interested in Hacking and Programming
 - 🌱 I’m currently learning Hacking with Kali Linux
 - 💞️ I’m looking to collaborate on (IDK)
-- 📫 You can Mail me @ luckyv0545746@gmail.com
+- 📫 You can Mail me at luckyv0545746@gmail.com
