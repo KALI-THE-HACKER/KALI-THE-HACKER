@@ -23,6 +23,6 @@ Hi
     <li>
       📖 Some more info : Born in 2006, the first 5 years of my life were spent in my village, so, I am also a desi guy!<br><br>
   </ul>
-  </h4>
-  <h2>My Profile visitor Count </h2>
+ </h4>
+ <h3>My Profile visitor Count </h3>
 ![Visitor Count](https://profile-counter.glitch.me/luckyverma-sudo/count.svg)
