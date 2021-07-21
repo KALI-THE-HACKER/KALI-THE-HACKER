@@ -59,4 +59,4 @@ Hi
   </ul>
  
   <h1 align="center">👹 EVERYTHING IS VULNERABLE! 👹</h1><br>
-  <h2 align="center">INCLUDING YOU AND ME</h2>
+  <h2 align="center"></h2>
