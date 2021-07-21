@@ -28,8 +28,8 @@ Hi
   <h3>📮 How to reach me -</h3>
   <ul>
     <li>
-      📧 You can mail me at : <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtMmTfLwLvGfsKMfWttrkTkBJnZTPkRtGBLJQKqtWwgwDGLdQPZFbGqdWCbcPJFkJLljThVB">luckyv0545746@gmail.com</a><br><br>
-      ✉ You can DM me at : <a href="https://www.instagram.com/k4li_th3_h4ck3r_">K4L1_TH3_H4CK3R (Instagram)</a><br><br>
+      📧 You can mail me at : <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtMmTfLwLvGfsKMfWttrkTkBJnZTPkRtGBLJQKqtWwgwDGLdQPZFbGqdWCbcPJFkJLljThVB" target="_blank">luckyv0545746@gmail.com</a><br><br>
+      ✉ You can DM me at : <a href="https://www.instagram.com/k4l1_th3_h4ck3r_" target="_blank">K4L1_TH3_H4CK3R (Instagram)</a><br><br>
       
     </li>
   
