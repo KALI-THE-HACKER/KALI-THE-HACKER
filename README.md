@@ -18,11 +18,11 @@ Hi
       💻 Programming languages I know : Python, C++, Java(basics), Batch(basics), HTML-CSS.<br><br>
     </li>
     <li>
-      🏫 <b>Education</b> : Currently in High school.<br><br>
+      🏫 Education : Currently in High school.<br><br>
     </li>
     <li>
       📖 Some more info : Born in 2006, the first 5 years of my life were spent in my village, so, I am also a desi guy!<br><br>
   </ul>
   </h4>
-
+  <h2>My Profile visitor Count </h2>
 ![Visitor Count](https://profile-counter.glitch.me/luckyverma-sudo/count.svg)
