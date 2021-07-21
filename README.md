@@ -1,5 +1,1 @@
-- 👋 Hi, I’m KALI : THE HACKER ™
-- 👀 I’m interested in Cyber security and Programming
-- 🌱 I’m currently learning Hacking with Kali Linux, some Russian and some basics of Native Indian Languages
-- 📫 You can Mail me at luckyv0545746@gmail.com
-- 📫 You can DM me at <a href="https://www.instagram.com">@k4l1_th3_h4ck3r(IG)</a>
+![Visitor Count](https://profile-counter.glitch.me/luckyverma-sudo/count.svg)
