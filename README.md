@@ -24,8 +24,7 @@ Hi
       📖 Some more info : Born in 2006, the first 5 years of my life were spent in my village, so, I am also a desi guy!<br><br>
       </li>
   </ul>
- </h4>
-  
+ </h4> 
   <h3>📮 How to reach me -</h3>
   <ul>
     <li>
@@ -59,4 +58,5 @@ Hi
   </li>
   </ul>
  
-  <h1 align="center">👹 EVERYTHING IS VULNERABLE! 👹<br>INCLUDING YOU AND ME</h1>
+  <h1 align="center">👹 EVERYTHING IS VULNERABLE! 👹</h1><br>
+  <h2 align="center">INCLUDING YOU AND ME</h2>
