@@ -29,9 +29,10 @@ Hi
   <ul>
     <li>
       📧 You can mail me at : <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtMmTfLwLvGfsKMfWttrkTkBJnZTPkRtGBLJQKqtWwgwDGLdQPZFbGqdWCbcPJFkJLljThVB" target="_blank" rel="noopener noreferrer">luckyv0545746@gmail.com</a><br><br>
-      ✉ You can DM me at : <a href="https://www.instagram.com/k4l1_th3_h4ck3r_" target="_blank" rel="noopener noreferrer">K4L1_TH3_H4CK3R (Instagram)</a><br><br>
-      
     </li>
+    <li>
+      ✉ You can DM me at : <a href="https://www.instagram.com/k4l1_th3_h4ck3r_" target="_blank" rel="noopener noreferrer">K4L1_TH3_H4CK3R (Instagram)</a><br><br>
+     </li>
   
  <h3>Visitor Counter - </h3>
   
