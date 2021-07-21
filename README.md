@@ -6,12 +6,19 @@ Hi
 , i'm KALI : THE HACKER ™
 </h2>
 
-<h4>👨‍💻 I'm currently working on Cyber Security and Programming</h4>
 <h4>
   <ul>
     <li>
-      ::marker
-      👨‍💻 I'm currently working on Cyber Security and Programming
+      👨‍💻 I'm currently working on Cyber Security and Programming.
+    </li>
+    <li>
+      🧠 I'm currently trying to learning some more programming languages, Russian, and some native Indian languages.
+    </li>
+    <li>
+      💻 Programming languages I know : Python, C++, Java(basics), Batch(basics), HTML-CSS.
+    </li>
+    <li>
+      🏫 Education : Currently in High school.
     </li>
   </ul>
   </h4>
