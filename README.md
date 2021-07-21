@@ -9,16 +9,16 @@ Hi
 <h4>
   <ul>
     <li>
-      👨‍💻 I'm currently working on Cyber Security and Programming.
+      👨‍💻 I'm currently working on Cyber Security and Programming.<br>
     </li>
     <li>
-      🧠 I'm currently trying to learning some more programming languages, Russian, and some native Indian languages.
+      🧠 I'm currently trying to learning some more programming languages, Russian, and some native Indian languages.<br>
     </li>
     <li>
-      💻 Programming languages I know : Python, C++, Java(basics), Batch(basics), HTML-CSS.
+      💻 Programming languages I know : Python, C++, Java(basics), Batch(basics), HTML-CSS.<br>
     </li>
     <li>
-      🏫 Education : Currently in High school.
+      🏫 Education : Currently in High school.<br>
     </li>
   </ul>
   </h4>
