@@ -37,6 +37,7 @@ Hi
  <h3>👀 Visitor Count - </h3>
   
 ![Visitor Count](https://profile-counter.glitch.me/luckyverma-sudo/count.svg)
+    <h3>My GitHub stats -</h3>
     
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=luckyverma-sudo&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyverma-sudo&langs_count=5&theme=tokyonight)]()
