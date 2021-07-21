@@ -33,6 +33,7 @@ Hi
     <li>
       ✉ You can DM me at : <a href="https://www.instagram.com/k4l1_th3_h4ck3r_" target="_blank" rel="noopener noreferrer">K4L1_TH3_H4CK3R (Instagram)</a><br><br>
      </li>
+  </ul>
   
 <h3>👀 Visitor Count - </h3>
   
