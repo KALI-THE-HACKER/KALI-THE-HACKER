@@ -21,7 +21,7 @@ Hi
       🏫 Education : Currently in High school.<br><br>
     </li>
     <li>
-      📖 Some more info : Born in 2006, first 5 years of my life was spent in my village, so, i'm a desi guy too!<br><br>
+      📖 Some more info : Born in 2006, the first 5 years of my life were spent in my village, so, I am also a desi guy!<br><br>
   </ul>
   </h4>
 
