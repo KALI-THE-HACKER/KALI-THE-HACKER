@@ -6,4 +6,6 @@ Hi
 , i'm KALI : THE HACKER ™
 </h2>
 
+<h4>👨‍💻 I'm currently working on Cyber Security and Programming</h4>
+
 ![Visitor Count](https://profile-counter.glitch.me/luckyverma-sudo/count.svg)
