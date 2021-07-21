@@ -9,10 +9,10 @@ Hi
 <h4>
   <ul>
     <li>
-      👨‍💻 I'm currently working on Cyber Security and Programming.<br><br>
+      👨‍💻 I'm currently working on <strong>Cyber Security</strong> and <strong>Programming</strong>.<br><br>
     </li>
     <li>
-      🧠 I'm currently trying to learning some more programming languages, Russian, and some native Indian languages.<br><br>
+      🧠 I'm currently trying to learning some more <strong>programming languages</strong>, <strong>Russian<strong>, and some <strong>Native Indian languages</strong>.<br><br>
     </li>
     <li>
       💻 Programming languages I know : Python, C++, Java(basics), Batch(basics), HTML-CSS.<br><br>
