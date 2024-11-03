@@ -20,15 +20,12 @@ Hi
     <li>
       🏫 Education : Currently in High school.<br><br>
     </li>
-    <li>
-      📖 Some more info : Born in 2006, the first 5 years of my life were spent in my village, so, I am also a desi guy!<br><br>
-      </li>
   </ul>
  </h4> 
   <h3>📮 How to reach me -</h3>
   <ul>
     <li>
-      📧 You can mail me at : <a href="mailto:luckyv0545746@gmail.com" target="_blank" rel="noopener noreferrer">luckyv0545746@gmail.com</a><br><br>
+      📧 You can mail me at : <a href="mailto:luckyverma05657@gmail.com" target="_blank" rel="noopener noreferrer">luckyv0545746@gmail.com</a><br><br>
     </li>
     <li>
       ✉ You can DM me at : <a href="https://www.instagram.com/k4l1_th3_h4ck3r_" target="_blank" rel="noopener noreferrer">K4L1_TH3_H4CK3R (Instagram)</a><br><br>
@@ -40,8 +37,8 @@ Hi
 ![Visitor Count](https://profile-counter.glitch.me/luckyverma-sudo/count.svg)
 <h2>📊 My GitHub stats </h2>
     
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=KALI-THE-HACKER&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KALI-THE-HACKER&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=KALI-THE-HACKER&count_private=true&theme=tokyonight&showicons=true)]()
 <h3>😇 Best of my all time -</h3>
 <ul>
   <li>
