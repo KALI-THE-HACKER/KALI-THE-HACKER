@@ -42,7 +42,6 @@ Hi
     
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=KALI-THE-HACKER&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KALI-THE-HACKER&langs_count=5&theme=tokyonight)]()
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KALI-THE-HACKER&theme=gotham)
 <h3>😇 Best of my all time -</h3>
 <ul>
   <li>
