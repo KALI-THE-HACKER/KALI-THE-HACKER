@@ -40,8 +40,9 @@ Hi
 ![Visitor Count](https://profile-counter.glitch.me/luckyverma-sudo/count.svg)
 <h2>📊 My GitHub stats </h2>
     
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=luckyverma-sudo&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyverma-sudo&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=KALI-THE-HACKER&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KALI-THE-HACKER&langs_count=5&theme=tokyonight)]()
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KALI-THE-HACKER&theme=gotham)
 <h3>😇 Best of my all time -</h3>
 <ul>
   <li>
