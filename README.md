@@ -9,7 +9,7 @@ Hi
 <h4>
   <ul>
     <li>
-      🎓 Pursuing BTech in Computational & Data Science from NITK
+      🎓 Pursuing BTech in Computational & Data Science from NITK<br><br>
     </li>
     <li>
       👨‍💻 I'm currently working on <strong>Flutter App Development</strong> and <strong>Python programming</strong>.<br><br>
