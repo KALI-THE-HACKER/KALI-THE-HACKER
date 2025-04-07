@@ -36,18 +36,20 @@ Hi
 <h3>👀 Visitor Count - </h3>
   
 ![Visitor Count](https://profile-counter.glitch.me/luckyverma-sudo/count.svg)
+
 <h2>📊 My GitHub Stats</h2>
 
 <table>
   <tr>
-    <td>
+    <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KALI-THE-HACKER&langs_count=5&theme=tokyonight" />
     </td>
-    <td>
+    <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/?username=KALI-THE-HACKER&count_private=true&theme=tokyonight&showicons=true" />
     </td>
   </tr>
 </table>
+
 
 
 <h2>🌟 Open Source Contributions</h2>
