@@ -62,7 +62,7 @@ Hi
   </tr>
 </table>
 
-<h3>Pinned Repos -</h3>
+<h2>Pinned Repos</h2>
 <ul>
   <li>
     <a href="https://github.com/KALI-THE-HACKER/NetworkK">NetworkK</a>
