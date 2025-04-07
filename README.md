@@ -49,7 +49,7 @@ Hi
 
 <h2>🌟 Open Source Contributions</h2>
 
-<table>
+<table width="100%">
   <tr>
     <th>Project</th>
     <th>Contribution</th>
