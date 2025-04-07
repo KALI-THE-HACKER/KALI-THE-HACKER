@@ -36,16 +36,19 @@ Hi
 <h3>👀 Visitor Count - </h3>
   
 ![Visitor Count](https://profile-counter.glitch.me/luckyverma-sudo/count.svg)
-<h2>📊 My GitHub stats </h2>
+<h2>📊 My GitHub Stats</h2>
 
-<div style="display: flex; justify-content: space-between;">
-  
-    
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KALI-THE-HACKER&langs_count=5&theme=tokyonight)]()
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KALI-THE-HACKER&langs_count=5&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/?username=KALI-THE-HACKER&count_private=true&theme=tokyonight&showicons=true" />
+    </td>
+  </tr>
+</table>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=KALI-THE-HACKER&count_private=true&theme=tokyonight&showicons=true)]()
-
-</div>
 
 <h2>🌟 Open Source Contributions</h2>
 
@@ -61,7 +64,7 @@ Hi
     <td><a href="https://github.com/CCExtractor/ultimate_alarm_clock/pull/642">PR #642</a></td>
   </tr>
 </table>
-
+<br>
 <h2>Pinned Repos</h2>
 <ul>
   <li>
