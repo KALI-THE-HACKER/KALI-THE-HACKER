@@ -41,22 +41,7 @@ Hi
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KALI-THE-HACKER&langs_count=5&theme=tokyonight)]()
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=KALI-THE-HACKER&count_private=true&theme=tokyonight&showicons=true)]()
-<h3>Pinned Repos -</h3>
-<ul>
-  <li>
-    <a href="https://github.com/KALI-THE-HACKER/NetworkK">caeser-cipher encrypter decrypter</a>
-  </li>
-  <li>
-    <a href="https://github.com/KALI-THE-HACKER/Alarmmate">Traventure</a>
-  </li>
-  <li>
-    <a href="https://github.com/KALI-THE-HACKER/Traventure">Traventure</a>
-  </li>
-  <li>
-    <a href="https://github.com/KALI-THE-HACKER/yt-downloader-GUI">yt-downloader-GUI</a>
-  </li>
-  </ul>
-  
+
 <h2>🌟 Open Source Contributions</h2>
 
 <table>
@@ -68,7 +53,24 @@ Hi
   <tr>
     <td>Ultimate Alarm Clock</td>
     <td>Add feature: Impliment randomized ringtone selection</td>
-    <td><a href="[https://github.com/CCExtractor/ultimate-alarm-clock/pull/642](https://github.com/CCExtractor/ultimate_alarm_clock/pull/642)">PR #642</a></td>
+    <td><a href="https://github.com/CCExtractor/ultimate_alarm_clock/pull/642">PR #642</a></td>
   </tr>
 </table>
+
+<h3>Pinned Repos -</h3>
+<ul>
+  <li>
+    <a href="https://github.com/KALI-THE-HACKER/NetworkK">NetworkK</a>
+  </li>
+  <li>
+    <a href="https://github.com/KALI-THE-HACKER/Alarmmate">Alarmmate</a>
+  </li>
+  <li>
+    <a href="https://github.com/KALI-THE-HACKER/Traventure">Traventure</a>
+  </li>
+  <li>
+    <a href="https://github.com/KALI-THE-HACKER/yt-downloader-GUI">yt-downloader-GUI</a>
+  </li>
+  </ul>
+  
   <h2 align="center"></h2>
