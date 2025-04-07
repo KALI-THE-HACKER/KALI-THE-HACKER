@@ -13,13 +13,13 @@ Hi
       🎓 Pursuing BTech in Computational & Data Science from <a href="https://www.nitk.ac.in" target="_blank" rel="noopener noreferrer">NITK</a><br><br>
     </li>
     <li>
-      👨‍💻 I'm currently working on <strong>Flutter App Development</strong> and <strong>Python programming</strong>.<br><br>
+      👨‍💻 I'm currently working on <strong>React JS</strong> and <strong>Tailwind CSS</strong>.<br><br>
     </li>
     <li>
       💻 Programming languages I know : Python, Dart(flutter)<br><br>
     </li>
     <li>
-      ✨ Interested in : App Development, Systems, CyberSecurity, Data Structures and Algorithms.<br><br>
+      ✨ Interested in : App Development, Systems(Docker & K8), CyberSecurity, Data Structures and Algorithms.<br><br>
     </li>
   </ul>
  </h4> 
@@ -44,18 +44,31 @@ Hi
 <h3>Pinned Repos -</h3>
 <ul>
   <li>
-    <a href="https://github.com/KALI-THE-HACKER/traventure">Traventure</a>
+    <a href="https://github.com/KALI-THE-HACKER/NetworkK">caeser-cipher encrypter decrypter</a>
+  </li>
+  <li>
+    <a href="https://github.com/KALI-THE-HACKER/Alarmmate">Traventure</a>
+  </li>
+  <li>
+    <a href="https://github.com/KALI-THE-HACKER/Traventure">Traventure</a>
   </li>
   <li>
     <a href="https://github.com/KALI-THE-HACKER/yt-downloader-GUI">yt-downloader-GUI</a>
   </li>
-  <li>
-    <a href="https://github.com/KALI-THE-HACKER/stone-paper-scissor-GUI">stone-paper-scissor-GUI</a>
-  </li>
-  <li>
-    <a href="https://github.com/KALI-THE-HACKER/caeser-cipher">caeser-cipher encrypter decrypter</a>
-  </li>
   </ul>
- 
-  <h1 align="center">"EVERYTHING IS VULNERABLE!"</h1><br>
+  
+<h2>🌟 Open Source Contributions</h2>
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Contribution</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Ultimate Alarm Clock</td>
+    <td>Add feature: Impliment randomized ringtone selection</td>
+    <td><a href="[https://github.com/CCExtractor/ultimate-alarm-clock/pull/642](https://github.com/CCExtractor/ultimate_alarm_clock/pull/642)">PR #642</a></td>
+  </tr>
+</table>
   <h2 align="center"></h2>
