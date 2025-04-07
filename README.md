@@ -41,9 +41,9 @@ Hi
 <h2>📊 My GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KALI-THE-HACKER&langs_count=5&theme=tokyonight" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KALI-THE-HACKER&langs_count=5&theme=tokyonight" width="30%"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/?username=KALI-THE-HACKER&count_private=true&theme=tokyonight&showicons=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/?username=KALI-THE-HACKER&count_private=true&theme=tokyonight&showicons=true" width="30%"/>
 </p>
 
 
