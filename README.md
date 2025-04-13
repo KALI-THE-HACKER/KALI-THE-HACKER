@@ -13,7 +13,7 @@ Hi
       🎓 Pursuing BTech in Computational & Data Science from <a href="https://www.nitk.ac.in" target="_blank" rel="noopener noreferrer">NITK</a><br><br>
     </li>
     <li>
-      👨‍💻 I'm currently working on <strong>React JS</strong> and <strong>Tailwind CSS</strong>.<br><br>
+      👨‍💻 I'm currently working on <strong>React JS, FastAPI</strong> and <strong>Tailwind CSS</strong>.<br><br>
     </li>
     <li>
       💻 Programming languages I know : Python, Dart(flutter)<br><br>
