@@ -13,16 +13,16 @@ Hi
       🎓 Pursuing BTech in Computational & Data Science from <a href="https://www.nitk.ac.in" target="_blank" rel="noopener noreferrer">NITK</a><br><br>
     </li>
     <li>
-      👨‍💻 I'm currently working on <strong>Machine Learning, React JS</strong> and <strong>Tailwind CSS</strong>.<br><br>
+      👨‍💻 I'm currently working on <strong>Machine Learning, Docker</strong> and <strong>ReactJS</strong>.<br><br>
     </li>
     <li>
-      💻 Programming languages I know : Python, Dart(flutter), FastAPI<br><br>
+      💻 Technologies I've worked on : ReactJS, TailwindCSS, FastAPI, Playwright, Docker, Socket Programming, Flutter, Tkinter and so on..<br><br>
     </li>
     <li>
-      ✨ Interested in : ML, App Development, Systems(Docker & K8), CyberSecurity, Data Structures and Algorithms.<br><br>
+      ✨ Interested in : AI/ML, App Development, Systems(Servers, Docker & K8), CyberSecurity, Data Structures and Algorithms.<br><br>
     </li>
     <li>
-      ✨ Visit my Portfolio at <a href='https://portfolio.luckylinux.xyz' target='_blank'>luckylinux.xyz</a><br><br>
+      ✨ Visit my Portfolio at <a href='https://portfolio.luckylinux.xyz' target='_blank'>portfolio.luckylinux.xyz</a><br><br>
     </li>
   </ul>
  </h4> 
@@ -38,7 +38,7 @@ Hi
   
 <h3>👀 Visitor Count - </h3>
   
-![Visitor Count](https://profile-counter.glitch.me/luckyverma-sudo/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/KALI-THE-HACKER/count.svg)
 
 
 <h2>📊 My GitHub Stats</h2>
@@ -70,13 +70,13 @@ Hi
 <h2>Pinned Repos</h2>
 <ul>
   <li>
+    <a href="https://github.com/KALI-THE-HACKER/railsplit-frontend">Railsplit</a>
+  </li>
+  <li>
     <a href="https://github.com/KALI-THE-HACKER/NetworkK">NetworkK</a>
   </li>
   <li>
     <a href="https://github.com/KALI-THE-HACKER/Alarmmate">Alarmmate</a>
-  </li>
-  <li>
-    <a href="https://github.com/KALI-THE-HACKER/Traventure">Traventure</a>
   </li>
   <li>
     <a href="https://github.com/KALI-THE-HACKER/yt-downloader-GUI">yt-downloader-GUI</a>
