@@ -22,7 +22,7 @@ Hi
       ✨ Interested in : AI/ML, App Development, Systems(Servers, Docker & K8), CyberSecurity, Data Structures and Algorithms.<br><br>
     </li>
     <li>
-      ✨ Visit my Portfolio at <a href='https://portfolio.luckylinux.xyz' target='_blank'>portfolio.luckylinux.xyz</a><br><br>
+      ✨ Visit my Website at <a href='https://www.luckylinux.xyz' target='_blank'>luckylinux.xyz</a><br><br>
     </li>
   </ul>
  </h4> 
