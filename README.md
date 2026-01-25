@@ -69,13 +69,13 @@ Hi
     <a href="https://github.com/KALI-THE-HACKER/railsplit-frontend">Railsplit</a>
   </li>
   <li>
-    <a href="https://github.com/KALI-THE-HACKER/server-dashboard">NetworkK</a>
+    <a href="https://github.com/KALI-THE-HACKER/server-dashboard">server-dashboard</a>
   </li>
   <li>
-    <a href="https://github.com/KALI-THE-HACKER/luckylinux.xyz">Alarmmate</a>
+    <a href="https://github.com/KALI-THE-HACKER/luckylinux.xyz">luckylinux.xyz</a>
   </li>
   <li>
-    <a href="https://github.com/KALI-THE-HACKER/xpensex">yt-downloader-GUI</a>
+    <a href="https://github.com/KALI-THE-HACKER/xpensex">xpensex</a>
   </li>
   </ul>
   
