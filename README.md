@@ -19,10 +19,10 @@ Hi
       💻 Technologies I've worked on : ReactJS, TailwindCSS, FastAPI, Playwright, Docker, Socket Programming, Flutter, Tkinter and so on..<br><br>
     </li>
     <li>
-      ✨ Interested in : AI/ML, App Development, Systems(Servers, Docker & K8), CyberSecurity, Data Structures and Algorithms.<br><br>
+      ✨ Interested in : Rust, Systems(Servers, Docker & K8), Full-stack, CyberSecurity, Data Structures and Algorithms.<br><br>
     </li>
     <li>
-      ✨ Visit my Website at <a href='https://www.luckylinux.xyz' target='_blank'>luckylinux.xyz</a><br><br>
+      ✨ Visit my Website at <a href='https://www.luckylinux.dev' target='_blank'>luckylinux.dev</a><br><br>
     </li>
   </ul>
  </h4> 
@@ -35,17 +35,13 @@ Hi
       ✉ My LinkedIn : <a href="https://www.linkedin.com/in/luckylinux" target="_blank" rel="noopener noreferrer">Lucky verma</a><br><br>
      </li>
   </ul>
-  
-<h3>👀 Visitor Count - </h3>
-  
-![Visitor Count](https://profile-counter.glitch.me/KALI-THE-HACKER/count.svg)
 
 
 <h2>📊 My GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KALI-THE-HACKER&langs_count=5&theme=tokyonight" width="30%"/>
-  <img src="https://via.placeholder.com/60x0" width="20%" height="1px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KALI-THE-HACKER&langs_count=6&theme=tokyonight" width="30%"/>
+  <img src="https://streak-stats.demolab.com?user=KALI-THE-HACKER&theme=github-dark-blue" />
   <img src="https://github-readme-stats.vercel.app/api/?username=KALI-THE-HACKER&count_private=true&theme=tokyonight&showicons=true" width="40%"/>
 </p>
 
@@ -73,13 +69,13 @@ Hi
     <a href="https://github.com/KALI-THE-HACKER/railsplit-frontend">Railsplit</a>
   </li>
   <li>
-    <a href="https://github.com/KALI-THE-HACKER/NetworkK">NetworkK</a>
+    <a href="https://github.com/KALI-THE-HACKER/server-dashboard">NetworkK</a>
   </li>
   <li>
-    <a href="https://github.com/KALI-THE-HACKER/Alarmmate">Alarmmate</a>
+    <a href="https://github.com/KALI-THE-HACKER/luckylinux.xyz">Alarmmate</a>
   </li>
   <li>
-    <a href="https://github.com/KALI-THE-HACKER/yt-downloader-GUI">yt-downloader-GUI</a>
+    <a href="https://github.com/KALI-THE-HACKER/xpensex">yt-downloader-GUI</a>
   </li>
   </ul>
   
