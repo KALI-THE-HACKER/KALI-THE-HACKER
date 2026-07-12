@@ -1,77 +1,199 @@
-<p align="center"<a href="https://en.wikipedia.org/wiki/india"><img src="https://img.shields.io/badge/FROM-INDIA-green?colorA=%23FF9933&amp;colorB=%23138808&amp;style=for-the-badge"></img></a></p>
-<h1 align="center">Hello, I'm Luckylinux</h1>
-</h1>
+<div align="center">
 
-<h4>
-  <ul>
-    <li>
-      🎓 Pursuing BTech in Computational & Data Science from <a href="https://www.nitk.ac.in" target="_blank" rel="noopener noreferrer">NITK</a><br><br>
-    </li>
-    <li>
-      👨‍💻 I'm currently working on <strong>Machine Learning, Docker</strong> and <strong>ReactJS</strong>.<br><br>
-    </li>
-    <li>
-      💻 Technologies I've worked on : ReactJS, TailwindCSS, FastAPI, Playwright, Docker, Socket Programming, Flutter, Tkinter and so on..<br><br>
-    </li>
-    <li>
-      ✨ Interested in : Rust, Systems(Servers, Docker & K8), Full-stack, CyberSecurity, Data Structures and Algorithms.<br><br>
-    </li>
-    <li>
-      ✨ Visit my Website at <a href='https://www.luckylinux.dev' target='_blank'>luckylinux.dev</a><br><br>
-    </li>
-  </ul>
- </h4> 
-  <h3>📮 How to reach me -</h3>
-  <ul>
-    <li>
-      📧 You can mail me at : <a href="mailto:luckyverma05657@gmail.com" target="_blank" rel="noopener noreferrer">luckyverma05657@gmail.com</a><br><br>
-    </li>
-    <li>
-      ✉ My LinkedIn : <a href="https://www.linkedin.com/in/luckylinux" target="_blank" rel="noopener noreferrer">Lucky verma</a><br><br>
-     </li>
-  </ul>
+# Hi, I'm Lucky Verma 👋
 
+### Systems Engineer • Backend Developer • Open Source Contributor
 
-<h2>📊 My GitHub Stats</h2>
+Building scalable backend systems, developer tools, and infrastructure with a strong focus on Linux, distributed systems, and AI-powered applications.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KALI-THE-HACKER&langs_count=6&theme=tokyonight" width="30%"/>
-  <img src="https://streak-stats.demolab.com?user=KALI-THE-HACKER&theme=github-dark-blue" />
-  <img src="https://github-readme-stats.vercel.app/api/?username=KALI-THE-HACKER&count_private=true&theme=tokyonight&showicons=true" width="40%"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-luckylinux.dev-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://luckylinux.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucky%20Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luckylinux)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luckyverma05657@gmail.com)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech in **Computational & Data Science** at **NITK Surathkal**
+- ⚙️ Systems SIG Secretary at **Web Enthusiasts' Club (WEC)**
+- 🚀 DevOps Engineer at **180DC NITK**
+- ❤️ Passionate about building reliable backend systems, developer infrastructure and open-source software
+- 🌱 Currently exploring **Distributed Systems, Rust, Kubernetes, AI Infrastructure & System Design**
+
+---
+
+# 🚀 Featured Projects
+
+### 🤖 OpportuneAI
+
+> AI-powered job aggregation platform that automatically discovers, processes and recommends jobs using LLM-powered information extraction.
+
+**Highlights**
+
+- Multi-source job aggregation
+- AI-powered structured extraction
+- Resume-aware recommendations
+- Redis task queues
+- Modular provider architecture
+
+**Tech Stack**
+
+`FastAPI` `PostgreSQL` `Redis` `Playwright` `Docker` `SQLAlchemy` `Gemini`
+
+---
+
+### 🚆 Railsplit
+
+> Intelligent transit engine that solves Indian Railways waitlist problems through graph traversal and split-booking optimization.
+
+**Highlights**
+
+- Route optimization engine
+- Graph-based journey planning
+- High-performance backend
+- Optimized search pipeline
+
+**Tech Stack**
+
+`FastAPI` `React` `Docker` `Redis`
+
+---
+
+### 🩺 ChronoCare
+
+> AI-assisted medical record platform featuring an interactive anatomy interface and RAG-powered medical assistant.
+
+**Highlights**
+
+- AI chatbot
+- Medical record management
+- Interactive human body visualization
+- Dockerized deployment
+
+**Tech Stack**
+
+`FastAPI` `React` `MySQL` `Docker` `Azure`
+
+---
+
+### 🖥️ Self-Hosted Infrastructure
+
+Managing personal production services using
+
+- Docker
+- Nginx
+- Cloudflare
+- GitHub Actions
+- Linux Servers
+- CI/CD
+- Monitoring
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,rust,ts,js,bash" />
 </p>
 
+### Backend
 
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mysql,redis" />
+</p>
 
+### Frontend
 
-<h2>🌟 Open Source Contributions</h2>
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" />
+</p>
 
-<table width="100%">
-  <tr>
-    <th>Project</th>
-    <th>Contribution</th>
-    <th>Link</th>
-  </tr>
-  <tr>
-    <td>Ultimate Alarm Clock</td>
-    <td>Add feature: Impliment randomized ringtone selection</td>
-    <td><a href="https://github.com/CCExtractor/ultimate_alarm_clock/pull/642">PR #642</a></td>
-  </tr>
-</table>
-<br>
-<h2>Pinned Repos</h2>
-<ul>
-  <li>
-    <a href="https://github.com/KALI-THE-HACKER/railsplit-frontend">Railsplit</a>
-  </li>
-  <li>
-    <a href="https://github.com/KALI-THE-HACKER/server-dashboard">server-dashboard</a>
-  </li>
-  <li>
-    <a href="https://github.com/KALI-THE-HACKER/luckylinux.xyz">luckylinux.xyz</a>
-  </li>
-  <li>
-    <a href="https://github.com/KALI-THE-HACKER/xpensex">xpensex</a>
-  </li>
-  </ul>
-  
-  <h2 align="center"></h2>
+### Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,githubactions,cloudflare,git" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,postman,vscode" />
+</p>
+
+---
+
+# 🌟 Open Source
+
+| Project | Contribution |
+|----------|--------------|
+| Ultimate Alarm Clock | Implemented randomized ringtone selection |
+| CTFd Docker Challenges | Open source contributions |
+| Various Developer Tools | Bug fixes, improvements and feature development |
+
+---
+
+# 🏆 Highlights
+
+- 🥈 2nd Place — Engineer's Day Hackathon (ChronoCare)
+- 🥉 3rd Place — Incub8 CTF among 400+ participants
+- ⚙️ Systems SIG Secretary — Web Enthusiasts' Club
+- 🚀 DevOps Engineer — 180DC NITK
+- ❤️ Active Open Source Contributor
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KALI-THE-HACKER&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KALI-THE-HACKER&layout=compact&theme=github_dark&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=KALI-THE-HACKER&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KALI-THE-HACKER&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://luckylinux.dev">
+<img src="https://img.shields.io/badge/Website-luckylinux.dev-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/luckylinux">
+<img src="https://img.shields.io/badge/LinkedIn-Lucky%20Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:luckyverma05657@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+> *"Building systems that are reliable, scalable, and enjoyable to work on."*
+
+⭐ Feel free to explore my repositories and connect with me.
+
+</div>
