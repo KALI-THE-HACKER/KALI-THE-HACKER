@@ -6,6 +6,8 @@
 
 Building scalable backend systems, developer tools, and infrastructure with a strong focus on Linux, distributed systems, and AI-powered applications.
 
+[![SadServers Level](https://img.shields.io/badge/SadServers-Advanced-FF6B35?style=for-the-badge&labelColor=111827&logo=linux&logoColor=FCC624)](https://sadservers.com/u/Luckylinux)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-luckylinux.dev-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://luckylinux.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucky%20Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luckylinux)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luckyverma05657@gmail.com)
