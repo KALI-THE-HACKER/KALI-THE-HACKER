@@ -10,7 +10,7 @@ Building scalable backend systems, developer tools, and infrastructure with a st
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-luckylinux.dev-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://luckylinux.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucky%20Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luckylinux)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luckyverma05657@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luckylinux.dev@gmail.com)
 
 </div>
 
@@ -21,6 +21,7 @@ Building scalable backend systems, developer tools, and infrastructure with a st
 - 🎓 B.Tech in **Computational & Data Science** at **NITK Surathkal**
 - ⚙️ Systems SIG Secretary at **Web Enthusiasts' Club (WEC)**
 - 🚀 DevOps Engineer at **180DC NITK**
+- 🤖 Project Associate at KathaAI, Industry Project under [Prof. Mohit P. Tahiliani](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cse.nitk.ac.in/faculty/mohit-p-tahiliani&ved=2ahUKEwjck_GN24qXAxWlleEIHWR1IGgQFnoECC4QAQ&usg=AOvVaw0Y7zd2rex4E4GJAHPwO02X), CSE Department, NITK Surathkal
 - ❤️ Passionate about building reliable backend systems, developer infrastructure and open-source software
 - 🌱 Currently exploring **Distributed Systems, Rust, Kubernetes, AI Infrastructure & System Design**
 
@@ -117,7 +118,7 @@ Managing personal production services using
 ### Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,githubactions,cloudflare,git" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,githubactions,cloudflare,git,ansible" />
 </p>
 
 ### Tools
@@ -166,7 +167,7 @@ Managing personal production services using
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KALI-THE-HACKER&theme=github-compact&hide_border=true"/>
+<img src="https://github-activity-graph.luckylinux.dev/graph?username=KALI-THE-HACKER&theme=github-compact&hide_border=true"/>
 
 </div>
 
@@ -184,7 +185,7 @@ Managing personal production services using
 <img src="https://img.shields.io/badge/LinkedIn-Lucky%20Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:luckyverma05657@gmail.com">
+<a href="mailto:luckylinux.dev@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
